@@ -1,0 +1,17 @@
+# 🎲 Random Idea Generator
+
+An automated generator that produces completely unpredictable, wildly unnecessary, and borderline genius project concepts. 
+
+## 🛠️ How to Run
+
+Make sure you have Python installed, then run the script from your terminal:
+
+```bash
+python app.py
+```
+
+## 🧠 Sample Output
+> *🚀 Blockchain-backed Socks Tracker operating on Mars!*
+
+## 📝 License
+This project is open-source and available under the [MIT License](https://opensource.org). Feel free to fork it and add your own ridiculous prefixes or subjects!
